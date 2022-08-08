@@ -1,0 +1,13 @@
+code: bundleeng4051e-bundle
+description: This is the bundleeng4051e bundle
+
+components:
+  plugins:
+    - plugins/bundleeng4051e-plugin.yaml
+
+  widgets:
+    - ui/widgets/d-5-point/tableWidget/d-5-point-table-widget-descriptor.yaml
+    - ui/widgets/d-5-point/detailsWidget/d-5-point-details-widget-descriptor.yaml
+    - ui/widgets/d-5-point/formWidget/d-5-point-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
